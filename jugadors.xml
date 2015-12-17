@@ -1,0 +1,32 @@
+<Membres>
+    <Jugador id="p1" edat="21">
+        <Nom>Cristiano</Nom>
+        <Cognom>Messi</Cognom>
+        <Equip>Alcoyano</Equip>
+    </Jugador>
+    <Jugador id="p2" edat="25">
+        <Nom>Leo</Nom>
+        <Cognom>Ronaldo</Cognom>
+        <Equip>Alcoyano</Equip>
+    </Jugador>
+    <Jugador id="p3" edat="33">
+        <Nom>Xavi</Nom>
+        <Cognom>Casillas</Cognom>
+        <Equip>Alcoyano</Equip>
+    </Jugador>
+    <Jugador id="p4" edat="32">
+        <Nom>Iker</Nom>
+        <Cognom>Fernández</Cognom>
+        <Equip>Alcoyano</Equip>
+    </Jugador>
+    <Jugador id="p5" edat="34">
+        <Nom>Carles</Nom>
+        <Cognom>Ramos</Cognom>
+        <Equip>Remolins-Bítem</Equip>
+    </Jugador>
+    <Jugador id="p6" edat="37">
+        <Nom>Sergio</Nom>
+        <Cognom>Puyol</Cognom>
+        <Equip>Remolins-Bítem</Equip>
+    </Jugador>
+</Membres>
